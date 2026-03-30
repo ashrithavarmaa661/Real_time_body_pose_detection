@@ -41,7 +41,7 @@ You can:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/ashrithavarmaa661/real-time-body-pose.git
+git clone - https://github.com/ashrithavarmaa661/Real_time_body_pose_detection.git
 cd Real_time_body_pose_detection
 ```
 
